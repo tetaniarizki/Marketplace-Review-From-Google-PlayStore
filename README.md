@@ -1,0 +1,2 @@
+# Marketplace-Review-From-Google-PlayStore
+This repository is an analysis of the classification of sentiment reviews from users of the marketplace application, where the word weighting methods used are TFIDF and Word2Vec. Meanwhile, the classification method used is Support Vector Machine (SVM). There are two kernels used in this analysis, namely the kernel Linear and the kernel Radial Basis Function (RBF). #kernel #linear #svm #supportvectormachine #machine #machinelearning #sentiment #klasifikasi #clasification #rbf #word2vec #tfidf #tf-idf #word-embedding
